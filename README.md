@@ -36,9 +36,12 @@ Understand how VPNs protect privacy and how to identify/remove suspicious browse
 -  Screen Shots
 
 ## 📸 Screenshots
-- `vpn_connected_screenshot.png`
--  `ip_check_before.png`
--  `ip_check_after.png`
+- `Screenshot_proton_vpn disconnected.png`
+- `Screenshot_Proton_vpn connected.png`
+-  `Screenshot_ip_check_before.png`
+-  `Screenshot_ip_check_after.png`
+-  `Screenshot_speed_check_before.png`
+-  `Screenshot_speed_check_after.png`
 
 ## ✅ Outcome
 This task provided hands-on experience in using a VPN, verifying its impact on browsing, and reviewing privacy and security-enhancing tools. It reinforced key concepts like encryption, tunneling, and vigilance against browser-based threats.
