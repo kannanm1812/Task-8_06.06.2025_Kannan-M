@@ -32,7 +32,6 @@ Understand how VPNs protect privacy and how to identify/remove suspicious browse
 
 ## 📁 Files in this Repo
 - `README.md` – Summary of the task
--  ProtonVPN_v4.1.13_x64.exe
 -  Screen Shots
 
 ## 📸 Screenshots
